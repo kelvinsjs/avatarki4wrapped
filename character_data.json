@@ -38,7 +38,7 @@
         "name": "Hoshimachi Suisei",
         "rank": 6,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/hoshimachi%20suisei.png",
-        "affiliation": "hololiveS:gnal(formerly)Independent (formerly)",
+        "affiliation": "hololive",
         "url": "https://virtualyoutuber.fandom.com/wiki/Hoshimachi_Suisei"
     },
     {
@@ -150,7 +150,7 @@
         "name": "Kizuna AI",
         "rank": 22,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/kizuna%20ai.png",
-        "affiliation": "Kizuna AI\u682a\u5f0f\u4f1a\u793e",
+        "affiliation": "Kizuna AI株式会社",
         "url": "https://virtualyoutuber.fandom.com/wiki/Kizuna_AI"
     },
     {
@@ -290,7 +290,7 @@
         "name": "Nyatasha Nyanners",
         "rank": 42,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/nyatasha%20nyanners.png",
-        "affiliation": "Mythic TalentVShojo(formerly)",
+        "affiliation": "Mythic Talent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Nyanners"
     },
     {
@@ -374,7 +374,7 @@
         "name": "Veibae",
         "rank": 54,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/veibae.png",
-        "affiliation": "Mythic TalentVShojo(formerly)",
+        "affiliation": "Mythic Talent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Veibae"
     },
     {
@@ -430,14 +430,14 @@
         "name": "Amatsuka Uto",
         "rank": 62,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/amatsuka%20uto.png",
-        "affiliation": "IndependentVOICE-ORE(formerly)",
+        "affiliation": "VOICE-ORE",
         "url": "https://virtualyoutuber.fandom.com/wiki/Amatsuka_Uto"
     },
     {
         "name": "AZKi",
         "rank": 63,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/azki.png",
-        "affiliation": "hololiveVictor EntertainmentINoNaKa MUSIC(formerly)Participating project:upd8(formerly)",
+        "affiliation": "hololive",
         "url": "https://virtualyoutuber.fandom.com/wiki/AZKi"
     },
     {
@@ -458,7 +458,7 @@
         "name": "Crunchyroll-Hime",
         "rank": 66,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/crunchyroll-hime.png",
-        "affiliation": "Crunchyroll",
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Crunchyroll-Hime"
     },
     {
@@ -479,7 +479,7 @@
         "name": "Silvervale",
         "rank": 69,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/silvervale.png",
-        "affiliation": "Mythic TalentVShojo(formerly)",
+        "affiliation": "Mythic Talent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Silvervale"
     },
     {
@@ -521,7 +521,7 @@
         "name": "Bao",
         "rank": 76,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/bao.png",
-        "affiliation": "United Talent",
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Bao"
     },
     {
@@ -532,11 +532,11 @@
         "url": "https://virtualyoutuber.fandom.com/wiki/Froot"
     },
     {
-        "name": "Omega\u03b1",
+        "name": "Omegaα",
         "rank": 79,
-        "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/omega\u03b1.png",
+        "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/omegaα.png",
         "affiliation": "hololive English",
-        "url": "https://virtualyoutuber.fandom.com/wiki/Omega\u03b1"
+        "url": "https://virtualyoutuber.fandom.com/wiki/Omegaα"
     },
     {
         "name": "Amano Pikamee",
@@ -556,7 +556,7 @@
         "name": "Multiverse Monarch",
         "rank": 82,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/multiverse%20monarch.png",
-        "affiliation": "VShojo(current)Independent (formerly)",
+        "affiliation": "VShojo",
         "url": "https://virtualyoutuber.fandom.com/wiki/AmaLee"
     },
     {
@@ -577,14 +577,14 @@
         "name": "Sinder",
         "rank": 85,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/sinder.png",
-        "affiliation": "IndependentMythic Talent(formerly)",
+        "affiliation": "Mythic Talent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Sinder"
     },
     {
         "name": "Kuzuha",
         "rank": 87,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/kuzuha.png",
-        "affiliation": "NIJISANJIVirgin Music (Universal Music Japan)NIJISANJI Gamers(formerly)Independent (formerly)",
+        "affiliation": "NIJISANJI",
         "url": "https://virtualyoutuber.fandom.com/wiki/Kuzuha"
     },
     {
@@ -626,7 +626,7 @@
         "name": "Zentreya",
         "rank": 94,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/zentreya.png",
-        "affiliation": "VShojo(current)Virtual Streamers Worldwide(formerly)",
+        "affiliation": "VShojo",
         "url": "https://virtualyoutuber.fandom.com/wiki/Zentreya"
     },
     {
@@ -668,7 +668,7 @@
         "name": "GX Aura",
         "rank": 101,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/gx%20aura.png",
-        "affiliation": "Opera GX",
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/GX_Aura"
     },
     {
@@ -710,21 +710,21 @@
         "name": "Dokibird",
         "rank": 107,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/dokibird.png",
-        "affiliation": null,
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Dokibird"
     },
     {
         "name": "Senzawa",
         "rank": 108,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/senzawa.png",
-        "affiliation": null,
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Senzawa"
     },
     {
         "name": "Kanae",
         "rank": 109,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/kanae.png",
-        "affiliation": "NIJISANJILantis(Bandai Namco Music)NIJISANJI Gamers(formerly)",
+        "affiliation": "NIJISANJI",
         "url": "https://virtualyoutuber.fandom.com/wiki/Kanae"
     },
     {
@@ -864,7 +864,7 @@
         "name": "Snuffy",
         "rank": 131,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/snuffy.png",
-        "affiliation": "Produced: IndependentlyTwitch Team:Creampies",
+        "affiliation": "Creampies",
         "url": "https://virtualyoutuber.fandom.com/wiki/Snuffy"
     },
     {
@@ -927,7 +927,7 @@
         "name": "Dola",
         "rank": 143,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/dola.png",
-        "affiliation": "NIJISANJINIJISANJI SEEDs (formerly)",
+        "affiliation": "NIJISANJI",
         "url": "https://virtualyoutuber.fandom.com/wiki/Dola"
     },
     {
@@ -948,14 +948,14 @@
         "name": "OniGiri",
         "rank": 147,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/onigiri.png",
-        "affiliation": "GeeXPlus",
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/OniGiri"
     },
     {
         "name": "Shirayuki Mishiro",
         "rank": 148,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/shirayuki%20mishiro.png",
-        "affiliation": "IndependentNoriPro(Formerly)",
+        "affiliation": "NoriPro",
         "url": "https://virtualyoutuber.fandom.com/wiki/Shirayuki_Mishiro"
     },
     {
@@ -983,15 +983,15 @@
         "name": "Vienna",
         "rank": 152,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/vienna.png",
-        "affiliation": "Mythic TalentCloud9(formerly)",
+        "affiliation": "Mythic Talent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Vienna"
     },
     {
-        "name": "Unn\u00e4med",
+        "name": "Unnämed",
         "rank": 153,
-        "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/unn\u00e4med.png",
+        "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/unnämed.png",
         "affiliation": "Independent",
-        "url": "https://virtualyoutuber.fandom.com/wiki/Unn\u00e4med"
+        "url": "https://virtualyoutuber.fandom.com/wiki/Unnämed"
     },
     {
         "name": "Kenji",
@@ -1025,7 +1025,7 @@
         "name": "Mika Melatika",
         "rank": 158,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/mika%20melatika.png",
-        "affiliation": "NIJISANJINIJISANJI ID (formerly)",
+        "affiliation": "NIJISANJI",
         "url": "https://virtualyoutuber.fandom.com/wiki/Mika_Melatika"
     },
     {
@@ -1067,7 +1067,7 @@
         "name": "Ryushen",
         "rank": 164,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/ryushen.png",
-        "affiliation": "NIJISANJINIJISANJI SEEDs (formerly)",
+        "affiliation": "NIJISANJI",
         "url": "https://virtualyoutuber.fandom.com/wiki/Ryushen"
     },
     {
@@ -1081,14 +1081,14 @@
         "name": "Batatinha",
         "rank": 166,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/batatinha.png",
-        "affiliation": "CosplayYouTuber",
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/BatataComPepino"
     },
     {
         "name": "Hanamori Healthy",
         "rank": 167,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/hanamori%20healthy.png",
-        "affiliation": "IndependentMelty+(formerly)",
+        "affiliation": "Melty+",
         "url": "https://virtualyoutuber.fandom.com/wiki/Hanamori_Healthy"
     },
     {
@@ -1109,7 +1109,7 @@
         "name": "Kaguya Luna",
         "rank": 170,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/kaguya%20luna.png",
-        "affiliation": "Vic inc.THE MOON STUDIO(formerly)",
+        "affiliation": "Vic inc.",
         "url": "https://virtualyoutuber.fandom.com/wiki/Kaguya_Luna"
     },
     {
@@ -1130,7 +1130,7 @@
         "name": "Rin Penrose",
         "rank": 174,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/rin%20penrose.png",
-        "affiliation": "Independentidol Corp(formerly)",
+        "affiliation": "idol Corp",
         "url": "https://virtualyoutuber.fandom.com/wiki/Rin_Penrose"
     },
     {
@@ -1158,7 +1158,7 @@
         "name": "Rindou Mikoto",
         "rank": 178,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/rindou%20mikoto.png",
-        "affiliation": "NIJISANJINIJISANJI SEEDs (formerly)",
+        "affiliation": "NIJISANJI",
         "url": "https://virtualyoutuber.fandom.com/wiki/Rindou_Mikoto"
     },
     {
@@ -1172,7 +1172,7 @@
         "name": "Amemiya Nazuna",
         "rank": 180,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/amemiya%20nazuna.png",
-        "affiliation": "IndependentVShojo(formerly)",
+        "affiliation": "VShojo",
         "url": "https://virtualyoutuber.fandom.com/wiki/Amemiya_Nazuna"
     },
     {
@@ -1200,15 +1200,15 @@
         "name": "Mikeneko",
         "rank": 184,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/mikeneko.png",
-        "affiliation": "IndependentVOICE-ORE(formerly)",
+        "affiliation": "VOICE-ORE",
         "url": "https://virtualyoutuber.fandom.com/wiki/Mikeneko"
     },
     {
-        "name": "Mint Fant\u00f4me",
+        "name": "Mint Fantôme",
         "rank": 186,
-        "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/mint%20fant\u00f4me.png",
-        "affiliation": null,
-        "url": "https://virtualyoutuber.fandom.com/wiki/Mint_Fant\u00f4me"
+        "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/mint%20fantôme.png",
+        "affiliation": "Independent",
+        "url": "https://virtualyoutuber.fandom.com/wiki/Mint_Fantôme"
     },
     {
         "name": "Sougetsu Eli",
@@ -1228,21 +1228,21 @@
         "name": "Wolfychu",
         "rank": 190,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/wolfychu.png",
-        "affiliation": "Independently",
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Wolfychu"
     },
     {
         "name": "Hourei Tenten",
         "rank": 191,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/hourei%20tenten.png",
-        "affiliation": null,
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Hourei_Tenten"
     },
     {
         "name": "Nene Amano",
         "rank": 192,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/nene%20amano.png",
-        "affiliation": "IndependentEONIAProduction kawaii(formerly)",
+        "affiliation": "EONIA",
         "url": "https://virtualyoutuber.fandom.com/wiki/Nene_Amano"
     },
     {
@@ -1256,7 +1256,7 @@
         "name": "Emikukis",
         "rank": 194,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/emikukis.png",
-        "affiliation": "Independent (2024-Present)OWOZU (2021-2024)",
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Emikukis"
     },
     {
@@ -1270,7 +1270,7 @@
         "name": "Utai Makea",
         "rank": 196,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/utai%20makea.png",
-        "affiliation": "Independentupd8(formerly)",
+        "affiliation": "upd8",
         "url": "https://virtualyoutuber.fandom.com/wiki/Utai_Makea"
     },
     {
@@ -1284,14 +1284,14 @@
         "name": "Sasaki Saku",
         "rank": 199,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/sasaki%20saku.png",
-        "affiliation": "NIJISANJINIJISANJI Gamers(formerly)",
+        "affiliation": "NIJISANJI",
         "url": "https://virtualyoutuber.fandom.com/wiki/Sasaki_Saku"
     },
     {
         "name": "Trickywi",
         "rank": 200,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/trickywi.png",
-        "affiliation": "Indie",
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Trickywi"
     },
     {
@@ -1312,14 +1312,14 @@
         "name": "Lee Roha",
         "rank": 205,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/lee%20roha.png",
-        "affiliation": "NIJISANJINIJISANJI KR (formerly)",
+        "affiliation": "NIJISANJI",
         "url": "https://virtualyoutuber.fandom.com/wiki/Lee_Roha"
     },
     {
         "name": "Layna Lazar",
         "rank": 206,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/layna%20lazar.png",
-        "affiliation": "Mythic Talent[11]",
+        "affiliation": "Mythic Talent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Layna_Lazar"
     },
     {
@@ -1347,14 +1347,14 @@
         "name": "Shondo",
         "rank": 210,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/shondo.png",
-        "affiliation": null,
+        "affiliation": "Independent",
         "url": "https://virtualyoutuber.fandom.com/wiki/Fallenshadow"
     },
     {
         "name": "CyYu",
         "rank": 211,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/cyyu.png",
-        "affiliation": "Independent(formerly)Mythic Talent",
+        "affiliation": "Mythic Talent",
         "url": "https://virtualyoutuber.fandom.com/wiki/CyYu"
     },
     {
@@ -1389,7 +1389,7 @@
         "name": "Shiina Yuika",
         "rank": 218,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/shiina%20yuika.png",
-        "affiliation": "NIJISANJINIJISANJI Gamers(formerly)",
+        "affiliation": "NIJISANJI",
         "url": "https://virtualyoutuber.fandom.com/wiki/Shiina_Yuika"
     },
     {
@@ -1410,7 +1410,7 @@
         "name": "FeFe",
         "rank": 222,
         "image_url": "https://raw.githubusercontent.com/kelvinsjs/avatarki4wrapped/refs/heads/main/fefe.png",
-        "affiliation": "Mythic TalentSeiso Girls(formerly)",
+        "affiliation": "Mythic Talent",
         "url": "https://virtualyoutuber.fandom.com/wiki/FeFe"
     },
     {
